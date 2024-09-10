@@ -1,4 +1,4 @@
-# Terminal Password Manager
+# SSH Password Manager
 
 This script sets up a terminal-based password manager for SSH commands in macOS and Linux. It will display a dialog with the password when you run `ssh` or `sudo su`.
 
